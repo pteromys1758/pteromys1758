@@ -1,6 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hexo</title>
+    <url>/2016/10/12/Buuterfly/</url>
+    <content><![CDATA[<hr>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h2><h3 id="更换主题-Butterfly"><a href="#更换主题-Butterfly" class="headerlink" title="更换主题 Butterfly"></a>更换主题 Butterfly</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly</span><br><span class="line">$ npm install hexo-renderer-pug hexo-renderer-stylus --save</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://jiangshibiao.github.io/Hexo-Butterfly/">Writing</a></p>
+<h3 id="sh-文件操作，实现自动化"><a href="#sh-文件操作，实现自动化" class="headerlink" title=".sh 文件操作，实现自动化"></a>.sh 文件操作，实现自动化</h3><p><a href="https://blog.csdn.net/a_piece_of_ppx/article/details/124929728">.sh 文件操作，实现自动化</a></p>
+<h3 id="文件权限"><a href="#文件权限" class="headerlink" title="文件权限"></a>文件权限</h3><p><a href="https://blog.csdn.net/jiangshibo123/article/details/126847852">chmod 755: 只允许自己修改，不允许别人修改，但允许别人使用</a>:</p>
+]]></content>
+      <categories>
+        <category>论文</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>st-gcn</tag>
+        <tag>标签2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>塞上牛羊空许诺</title>
+    <url>/2022/11/01/%E5%A1%9E%E4%B8%8A%E7%89%9B%E7%BE%8A%E7%A9%BA%E8%AE%B8%E8%AF%BA/</url>
+    <content><![CDATA[<hr>
+<blockquote>
+<p>往者不可谏，来者犹可追</p>
+</blockquote>
+<h3 id="20222-x2F-11-x2F-1"><a href="#20222-x2F-11-x2F-1" class="headerlink" title="20222&#x2F;11&#x2F;1"></a>20222&#x2F;11&#x2F;1</h3><p><strong>塞上牛羊空许诺</strong></p>
+<p><strong>蜘蛛侠，救了所有人，却救不了他最爱的人</strong></p>
+<ul>
+<li>给老师发邮件，春节回家</li>
+<li>重启日记</li>
+<li>hexo 成功</li>
+<li>emo，喝晕</li>
+</ul>
+<p>music： Dynasty</p>
+<h3 id="2022-x2F-11-x2F-2"><a href="#2022-x2F-11-x2F-2" class="headerlink" title="2022&#x2F;11&#x2F;2"></a>2022&#x2F;11&#x2F;2</h3><blockquote>
+<p>你看清楚凶手了吗？没有，他当时站在光里，太耀眼了，我看不清他的脸</p>
+</blockquote>
+<ul>
+<li>发表，被批评，转方向，做挑战</li>
+<li>原神更新，凌晨 4 点睡</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-3"><a href="#2022-x2F-11-x2F-3" class="headerlink" title="2022&#x2F;11&#x2F;3"></a>2022&#x2F;11&#x2F;3</h3><ul>
+<li>睡到中午</li>
+<li>打原神</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-4"><a href="#2022-x2F-11-x2F-4" class="headerlink" title="2022&#x2F;11&#x2F;4"></a>2022&#x2F;11&#x2F;4</h3><ul>
+<li>实验室看 challeneg 数据</li>
+<li>健身，练腿</li>
+<li>李总鸡胸肉</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-5"><a href="#2022-x2F-11-x2F-5" class="headerlink" title="2022&#x2F;11&#x2F;5"></a>2022&#x2F;11&#x2F;5</h3><ul>
+<li>中午滕世宇，李，余家吃饭。香锅</li>
+<li>晚上鸟贵族，赵凌枭，康益赫</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-6"><a href="#2022-x2F-11-x2F-6" class="headerlink" title="2022&#x2F;11&#x2F;6"></a>2022&#x2F;11&#x2F;6</h3><ul>
+<li>做一天 data science 作业。通宵</li>
+<li>DRX 夺冠 🏆</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-7-11"><a href="#2022-x2F-11-x2F-7-11" class="headerlink" title="2022&#x2F;11&#x2F;7-11"></a>2022&#x2F;11&#x2F;7-11</h3><ul>
+<li>做作业，赶报告</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-12-周六"><a href="#2022-x2F-11-x2F-12-周六" class="headerlink" title="2022&#x2F;11&#x2F;12 周六"></a>2022&#x2F;11&#x2F;12 周六</h3><ul>
+<li>聚餐，康益赫，王灏然主厨，好吃 😋。刘津佑，赵凌枭，康益赫学长赵鸿博，李王宇豪，鲍逸凯，李政翰，余金宏</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-13-周日"><a href="#2022-x2F-11-x2F-13-周日" class="headerlink" title="2022&#x2F;11&#x2F;13 周日"></a>2022&#x2F;11&#x2F;13 周日</h3><ul>
+<li>断片</li>
+<li>收拾屋子一整天</li>
+<li>与七</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-14-周一"><a href="#2022-x2F-11-x2F-14-周一" class="headerlink" title="2022&#x2F;11&#x2F;14 周一"></a>2022&#x2F;11&#x2F;14 周一</h3><ul>
+<li>0-9:30 食堂-食堂</li>
+<li>技术经营特论报告</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-15-周二"><a href="#2022-x2F-11-x2F-15-周二" class="headerlink" title="2022&#x2F;11&#x2F;15 周二"></a>2022&#x2F;11&#x2F;15 周二</h3><ul>
+<li>4-12 食堂-bigboy（殷宪成-赵凌枭）</li>
+<li>实验</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-16-水"><a href="#2022-x2F-11-x2F-16-水" class="headerlink" title="2022&#x2F;11&#x2F;16 水"></a>2022&#x2F;11&#x2F;16 水</h3><ul>
+<li>通宵准备实验，但是自我放弃，疯狂打 lol，早上翘掉第一节课，麦当劳，最后 zemi 请假，心态崩溃</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-17-木"><a href="#2022-x2F-11-x2F-17-木" class="headerlink" title="2022&#x2F;11&#x2F;17 木"></a>2022&#x2F;11&#x2F;17 木</h3><ul>
+<li>康益赫搬过来，收拾屋子，帮余金宏学长整数据</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-18-金"><a href="#2022-x2F-11-x2F-18-金" class="headerlink" title="2022&#x2F;11&#x2F;18 金"></a>2022&#x2F;11&#x2F;18 金</h3><ul>
+<li>2:00-8:00 一顿泡面，打一天 lol 新版本新装备，卸游，改变自己</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-19-土"><a href="#2022-x2F-11-x2F-19-土" class="headerlink" title="2022&#x2F;11&#x2F;19 土"></a>2022&#x2F;11&#x2F;19 土</h3><ul>
+<li>1：00-9:00 一套 N2</li>
+<li>康益赫螺蛳粉，午睡</li>
+<li>烤肉，堂吉柯德购物</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-20-日"><a href="#2022-x2F-11-x2F-20-日" class="headerlink" title="2022&#x2F;11&#x2F;20 日"></a>2022&#x2F;11&#x2F;20 日</h3><ul>
+<li>1：00-8:00 N2，，充值 wps 年会员，京都红叶 🍁 好看</li>
+<li>火凤苑，牛华八婆</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-21-月"><a href="#2022-x2F-11-x2F-21-月" class="headerlink" title="2022&#x2F;11&#x2F;21 月"></a>2022&#x2F;11&#x2F;21 月</h3><ul>
+<li>3:00-11:00 世界杯</li>
+</ul>
+<h3 id="2022-x2F-11-x2F-22-火"><a href="#2022-x2F-11-x2F-22-火" class="headerlink" title="2022&#x2F;11&#x2F;22 火"></a>2022&#x2F;11&#x2F;22 火</h3><ul>
+<li>3:00-11:00 世界杯</li>
+<li>graphviz 安装失败，不知道问题在哪。显示字典结构失败</li>
+</ul>
+]]></content>
+      <categories>
+        <category>日记</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2016/10/12/hello-world/</url>
     <content><![CDATA[<hr>
@@ -23,8 +132,114 @@
         <category>分类2</category>
       </categories>
       <tags>
-        <tag>标签1</tag>
         <tag>标签2</tag>
+        <tag>标签1</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>ST-GCN</title>
+    <url>/2016/10/12/st-gcn/</url>
+    <content><![CDATA[<hr>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="net"><a href="#net" class="headerlink" title="net"></a>net</h2><h3 id="utils"><a href="#utils" class="headerlink" title="utils"></a>utils</h3><h3 id="st-gcn-py"><a href="#st-gcn-py" class="headerlink" title="st_gcn.py"></a>st_gcn.py</h3><ol>
+<li>导入库</li>
+</ol>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> torch</span><br><span class="line"><span class="keyword">import</span> torch.nn <span class="keyword">as</span> nn</span><br><span class="line"><span class="keyword">import</span> torch.nn.functional <span class="keyword">as</span> F</span><br><span class="line"><span class="keyword">from</span> torch.autograd <span class="keyword">import</span> Variable</span><br><span class="line"></span><br><span class="line"><span class="keyword">from</span> net.utils.tgcn <span class="keyword">import</span> ConvTemporalGraphical</span><br><span class="line"><span class="keyword">from</span> net.utils.graph <span class="keyword">import</span> Graph</span><br></pre></td></tr></table></figure>
+
+<ol start="2">
+<li>class 参数</li>
+</ol>
+<ul>
+<li><p>in_channels： 输入通道数</p>
+</li>
+<li><p>out_channels： 输出通道数</p>
+</li>
+<li><p>kernel_size： 卷积核大小。（时间卷积核大小，空间卷积核大小）</p>
+</li>
+<li><p>stride(int)： 时间步长</p>
+</li>
+<li><p>dropout：</p>
+</li>
+<li><p>residual： 是否使用残差</p>
+</li>
+</ul>
+<ol start="3">
+<li><p>检测 kernel_size 长度是否为 2</p>
+</li>
+<li><p>？检测时间卷积核大小是否是奇数</p>
+</li>
+<li><p>？padding: 时间填充，空间不填充）</p>
+</li>
+<li><p>gcn 函数: 自定义，空间卷积（输入通道数，输出通道数，空间卷积核大小）</p>
+</li>
+</ol>
+<p>返回图 <em>X</em> 和 邻接矩阵 A</p>
+<ol start="7">
+<li>tcn 函数: 时间卷积,套用 Covn2d</li>
+</ol>
+<ul>
+<li><p>BatchNorm2d</p>
+</li>
+<li><p>ReLU： 激活函数</p>
+</li>
+<li><p>Conv2d: (输入通道数, 输出通道数, 卷积核大小, 填充)</p>
+</li>
+<li><p>BatchNorm2d</p>
+</li>
+<li><p>Dropout</p>
+<p>返回 图 <em>X</em></p>
+</li>
+</ul>
+<ol start="8">
+<li>残差</li>
+</ol>
+<ul>
+<li><p>无残差</p>
+<p><code>lambda x: 0</code>: 返回 0</p>
+</li>
+<li><p>输入输出通道数一样， 并且步长为 1</p>
+<p><code>lambda x: x</code>: 返回本身</p>
+</li>
+<li><p>其他情况</p>
+<ul>
+<li><p>卷积 Conv2d (输入通道数, 输出通道数, 卷积核大小: 1, 步长: (时间步长， 1))</p>
+</li>
+<li><p>?BatchNorm2d</p>
+</li>
+</ul>
+</li>
+</ul>
+<ol start="9">
+<li>relu</li>
+</ol>
+<p><code>nn.BatchNorm2d(out_channels)</code></p>
+<p><a href="https://www.cnblogs.com/wanghui-garcia/p/10642665.html">inplace-选择是否进行覆盖运算</a>, 对从上层网络 Conv2d 中传递下来的 tensor 直接进行修改，这样能够节省运算内存，不用多存储其他变量</p>
+<ol start="10">
+<li><strong>forward</strong></li>
+</ol>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line">res = self.residual(x)</span><br><span class="line">x, A = self.gcn(x, A)</span><br><span class="line">x = self.tcn(x) + res</span><br></pre></td></tr></table></figure>
+
+<p>relu -&gt; gcn -&gt; tcn</p>
+]]></content>
+      <categories>
+        <category>分类1</category>
+        <category>分类2</category>
+      </categories>
+      <tags>
+        <tag>标签2</tag>
+        <tag>标签1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>研究学习</title>
+    <url>/2022/11/01/%E7%A0%94%E7%A9%B6%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<hr>
+<blockquote>
+<p>往者不可谏，来者犹可追</p>
+</blockquote>
+<h3 id="卷积讲解"><a href="#卷积讲解" class="headerlink" title="卷积讲解"></a>卷积讲解</h3><p><a href="https://blog.csdn.net/qq_50001789/article/details/120381140">nn.Conv2d——二维卷积运算解读</a></p>
+<h3 id="csdn"><a href="#csdn" class="headerlink" title="csdn"></a>csdn</h3><p><a href="https://blog.csdn.net/qq_36627158?type=blog">小吴同学真棒</a>研究 action recognition</p>
+<p><a href="https://zhuanlan.zhihu.com/p/28413039">残差讲解</a></p>
+]]></content>
   </entry>
 </search>
