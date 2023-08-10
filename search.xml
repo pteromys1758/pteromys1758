@@ -243,8 +243,23 @@
 ]]></content>
   </entry>
   <entry>
-    <title>测试文章</title>
-    <url>/2023/08/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0-1/</url>
-    <content><![CDATA[]]></content>
+    <title>about</title>
+    <url>/2023/08/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>hhhhhh</p>
+<p>这是一篇测试文章</p>
+
+
+<p><img src="/yingyi-xsu-violet.jpg" alt="图片引用方法二"></p>
+<p><img src="/images/yingyi-xsu-violet.jpg" alt="图片引用方法三"></p>
+<img src="/2023/08/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/test.jpeg" class="" title="图片引用方法一">
+
+<p><img src="/test.jpeg" alt="图片引用方法二"></p>
+<p><img src="/images/test.jpeg" alt="图片引用方法三"></p>
+<p>yingyi-xsu-violet.jpg</p>
+<img src="/2023/08/10/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/IMG_5631.png" class="" title="图片引用方法一">
+
+<p><img src="/IMG_5631.png" alt="图片引用方法二"></p>
+<p><img src="/images/IMG_5631.png" alt="图片引用方法三"></p>
+]]></content>
   </entry>
 </search>
